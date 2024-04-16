@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 31.622009327855753,
+    "en_fr": 66.8490560088365,
+    "en_tl": 90.28005577872557,
+    "en_nl": 77.50556072223914
+  },
+  "test_match": {
+    "en_en_3": 31.622009327855753,
+    "en_tl_3": 90.28005577872557,
+    "en_nl_3": 77.50556072223914
+  },
+  "test_generate": {
+    "english_1_gram": "Itooaoa eata e et   a",
+    "english_2_gram": "I am @Torongatps: at th ",
+    "english_3_gram": "I am sel so my the whe s",
+    "english_4_gram": "I Loverytair firmed and tr",
+    "spanish_2_gram": "Soy @mpelarialarar e di",
+    "spanish_3_gram": "Soy lonez herso de la c",
+    "french_2_gram": "Je suis://///tt. cour le @F",
+    "french_3_gram": "Je suistessatiot sur de den"
+  }
+}
